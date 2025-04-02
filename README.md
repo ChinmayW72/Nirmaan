@@ -62,6 +62,6 @@ With these technologies, Nirmaan offers a comprehensive and efficient solution f
 How to Clone
 To clone the repository, run the following command:
 
-git clone https://github.com/Samueal07/nirmaan.git
+git clone (https://github.com/ChinmayW72/Nirmaan.git)
 
 
